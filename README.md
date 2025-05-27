@@ -24,9 +24,4 @@ The **mcp-agent-accelerator** repository provides a starter framework to build A
 - OpenAI API key (or other supported LLM provider)
 
 ### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/mcp-agent-accelerator.git
-cd mcp-agent-accelerator
+Coming Soon
