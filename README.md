@@ -1,6 +1,6 @@
 ## Overview
 
-The **mcp-agent-accelerator** repository provides a starter framework to build AI agents that leverage the Model Context Protocol (MCP) to interact with various services and data sources. It simplifies the creation of intelligent agents capable of performing complex workflows by integrating with MCP servers.
+The **MCP-Agent-Accelerator** repository provides a starter framework to build AI agents that leverage the Model Context Protocol (MCP) to interact with various services and data sources. It simplifies the creation of intelligent agents capable of performing complex workflows by integrating with MCP servers.
 
 ---
 
