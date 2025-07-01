@@ -8,7 +8,7 @@ The **MCP-Agent-Accelerator** repository provides a starter framework to build A
 
 - Easy integration with MCP servers for accessing external tools and data.
 - Supports multi-agent orchestration and composable workflows.
-- Built with TypeScript and Python compatibility in mind.
+- Built with TypeScript and Python compatibility.
 - Includes example agents to demonstrate GitHub repository management.
 - Designed for extensibility and rapid development of AI-powered automation.
 
